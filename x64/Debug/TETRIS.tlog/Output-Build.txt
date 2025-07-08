@@ -1,0 +1,5 @@
+﻿Build started at 10:12 AM...
+1>------ Build started: Project: TETRIS, Configuration: Debug x64 ------
+1>TETRIS.vcxproj -> C:\TETRIS\x64\Debug\TETRIS.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:12 AM and took 01.188 seconds ==========

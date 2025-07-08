@@ -1,0 +1,27 @@
+# Ignore VS & OS files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+*.log
+*.tmp
+
+# Other unwanted
+*.exe
+*.dll
+*.pdb
+*.cache
